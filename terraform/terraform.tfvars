@@ -1,0 +1,1 @@
+vault_image = "hashicorp/vault:latest"
